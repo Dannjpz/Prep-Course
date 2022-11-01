@@ -1,7 +1,7 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-var nuevaString = ('Hola'); //nice 1
+var nuevaString = ('Como estas?'); //nice 1
 
 // Crea una variable numérica, puede ser cualquier número:
 var nuevoNum = 11; //nice 2
@@ -76,8 +76,8 @@ function tienenMismaLongitud(str1, str2) {
   //  variable_interna = true
   //} else {variable_interna = false}
   //return variable_interna
-  var longitud = (str1.lenght ==str2.lenght);
-  return longitud
+  var longitudd = (str1.lenght ==str2.lenght);
+  return longitudd
 }
 
 function menosQueNoventa(num) {
